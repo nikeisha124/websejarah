@@ -1,0 +1,339 @@
+/* Gaya dasar */
+.siap{
+  background-color: pink;
+  text-align: center;
+  padding: 30px;
+}
+
+.p{
+  padding-top: 250px; 
+  margin-left: 20%;
+}
+
+.c {
+  padding-top: 250px;
+  padding-left: 400px;
+  margin-bottom: 50px; /* Mengurangi jarak bawah */
+  padding-bottom: 300px;
+  align-items: flex-start; /* Menempatkan elemen di atas */
+}
+
+.main{
+  display: flex;
+}
+
+.uu{
+  text-align: center;
+  padding-top: 105px;
+}
+
+.uk{
+  text-align: center;
+  box-shadow: 10px 10px 15px rgba(26, 22, 25, 0.5);
+}
+
+.f{
+  text-align: center;
+  padding-top: 20px;
+}
+
+.d{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(202, 198, 202);
+}
+
+.h{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(180, 174, 180);
+}
+
+.j{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(131, 123, 131);
+}
+
+.l{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(117, 111, 117);
+}
+
+.b{
+  text-align: center;
+}
+
+.g{
+  text-align: center;
+  box-shadow: 10px 10px 15px rgba(26, 22, 25, 0.5);
+}
+
+.ajib{
+  text-align: center;
+  padding-top: 105px;
+}
+
+.dc{
+  text-align: center;
+  box-shadow: 10px 10px 15px rgba(26, 22, 25, 0.5);
+}
+
+footer{
+  bottom: 0;
+  background-color: pink;
+  text-align: center;
+  padding-top: 70px;
+}
+
+footer a{
+  text-decoration: none;
+}
+
+.n{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.x{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(202, 198, 202);
+}
+
+.dx{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(180, 174, 180);
+}
+
+.s{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(131, 123, 131);
+}
+
+.q{
+  text-align: center;
+}
+
+.w{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(117, 111, 117);
+}
+
+.q{
+  box-shadow: -10px;
+  background-color: rgb(88, 86, 88);
+}
+
+.e{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(78, 77, 78);
+}
+
+.qa{
+  text-align: center;
+}
+
+.v{
+  text-align: center;
+  box-shadow: 10px 10px 15px rgba(26, 22, 25, 0.5);
+}
+
+.sf{
+  padding-bottom: 700px;
+  margin-left: 20%;
+}
+
+.ee{
+  text-align: center;
+  padding-top: 105px;
+}
+
+.ff{
+  text-align: center;
+  box-shadow: 10px 10px 15px rgba(26, 22, 25, 0.5);
+}
+
+.ttt{
+  text-align: center;
+  padding-top: 30px;
+}
+
+.uo{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(202, 198, 202);
+}
+
+.pk{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(180, 174, 174, 180);
+}
+
+.ll{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(131, 123, 131);
+}
+
+.gg{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(117, 111, 117);
+}
+
+.pp{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(117, 111, 117);
+}
+
+.dd{
+  text-align: center;
+}
+
+.oo{
+  text-align: center;
+  box-shadow: 10px 10px 15px rgba(26, 22, 25, 0.5);
+}
+
+.nikei{
+  text-align: center;
+  box-shadow: 10px 10px 15px rgba(26, 22, 25, 0.5);
+}
+
+.cinta{
+  text-align: center;
+  padding-top: 105px;
+}
+
+.ii{
+  display: flex;
+  flex-direction: row;
+  padding-top: 0;
+  padding-left: 800px;
+  margin-bottom: 500px; /* Mengurangi jarak bawah */
+  padding-bottom: 0; 
+}
+
+.up{
+  text-align: center;
+}
+
+.yuk{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(202, 198, 202);
+}
+
+.op{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(180, 174, 174, 180);
+}
+
+.hd{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(131, 123, 131);
+}
+
+.kl{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(117, 111, 117);
+}
+
+.vb{
+  text-align: center;
+  box-shadow: -10px;
+  background-color: rgb(89, 85, 89);
+}
+
+.tp{
+  text-align: center;
+}
+
+.js{
+  text-align: center;
+  box-shadow: 10px 10px 15px rgba(26, 22, 25, 0.5);
+}
+
+/* Responsif untuk layar kecil (tablet, ponsel) */
+@media (max-width: 768px) {
+  .main {
+      flex-direction: column; /* Ubah layout flex menjadi kolom */
+  }
+
+  .p {
+      margin-left: 0;
+      padding-top: 50px;
+  }
+
+  .c {
+      padding-left: 0;
+      padding-top: 50px;
+      padding-bottom: 100px;
+  }
+
+  .ii {
+      padding-left: 0;
+      margin-bottom: 100px;
+  }
+
+  footer {
+      padding-top: 20px;
+  }
+
+  .sf {
+      margin-left: 0;
+      padding-bottom: 200px;
+  }
+  
+  /* Menyesuaikan padding dan ukuran box shadow */
+  .uk, .g, .v, .oo, .nikei {
+      box-shadow: none;
+      padding: 10px;
+  }
+
+  /* Mengurangi padding untuk elemen dengan banyak padding */
+  .s, .d, .h, .j, .l {
+      padding: 15px;
+  }
+}
+
+/* Responsif untuk layar ponsel */
+@media (max-width: 480px) {
+  .s, .d, .h, .j, .l, .b, .g {
+      font-size: 14px; /* Mengurangi ukuran font */
+  }
+
+  .main {
+      padding: 20px;
+  }
+
+  footer {
+      padding-top: 10px;
+  }
+
+  .p, .c, .sf {
+      padding-top: 30px;
+      margin-left: 0;
+  }
+
+  .ii {
+      flex-direction: column;
+      padding-left: 0;
+      margin-bottom: 150px;
+  }
+
+  .up, .yuk, .op {
+      font-size: 16px; /* Mengurangi ukuran font untuk ponsel */
+  }
+}
